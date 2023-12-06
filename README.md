@@ -1,2 +1,2 @@
-# projet_demo
-This a demo
+# project_demo
+This is my first git repository

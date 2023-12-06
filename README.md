@@ -1,2 +1,2 @@
-# project_demo
+# projet_demo
 This is my first git repository
